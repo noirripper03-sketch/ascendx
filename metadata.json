@@ -1,0 +1,6 @@
+{
+  "name": "AscendX",
+  "description": "A modern Minecraft mod and modpack hosting hub with secure administrator portal for easy link curation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
